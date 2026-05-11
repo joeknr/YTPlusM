@@ -126,6 +126,8 @@ PS: DIY=DO IT YOURSELF
 First release, added YTweaks, Gonerino and YouSpeed injectable
 <li><strong>1.1 (May 5 2026):</strong></li>
 Finally! YTLowContrastMode added, supporting also newest YT IPAs
+<li><strong>1.2 (May 11 2026):</strong></li>
+Added VolumeBoostYT and YouGetCaptions
 
 ## Supported YouTube Version
 <ul>
