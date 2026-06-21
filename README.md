@@ -149,9 +149,9 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 <p><strong>From now, YOU can build the IPAs of YTPlusM with GitHub Actions! Fork this repo (to build YTPlusM with YTLite from 5.1 to 5.2.1, no 5.2, without DRM Patreon subscription); then go to Actions, workflows, "Create YouTube Plus app", make sure it is selected the branch "main" and create your total functioning IPA!</strong>
 View also <a href=#how-to-build-youtube-plus-and-ytplusm-app-using-github-actions>How to build YouTube Plus and YTPlusM app using GitHub Actions</a> to learn how to create YTPlus and YTPlusM IPAs.
 <li><strong>IMPORTANT: read <a href="#must-read">this</a></strong></li></p>
-</details>
 
 PS: DIY=DO IT YOURSELF
+</details>
 
 ## YTPlusM versions changelog
 <li><strong>1.0 (April 14 2026):</strong></li>
